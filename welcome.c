@@ -23,8 +23,8 @@ void welcome_screen_1(void)
 	write(1, "                  |    |\n", 25);
 	write(1, "           |   |                   SHEL", 39);
 	write(1, "L                 |    |\n", 25);
-	write(1, "           |   |              by Tu and", 39);
-	write(1, " Josef            |    |\n", 25);
+	write(1, "           |   |              by ENDALE", 39);
+	write(1, " FEKEDE           |    |\n", 25);
 	write(1, "           |   |                       ", 39);
 	write(1, "                  |    |\n", 25);
 	write(1, "           |   |                       ", 39);
