@@ -1,9 +1,9 @@
-.TH man 1 "12 April 2019" "HOLBERTON SCHOOL" "SIMPLE_SHELL"
+.TH man 1 "10 August 2022" "ALX HOLBERTON SCHOOL COHORT 7" "SIMPLE_SHELL"
 .SH NAME
 .B simple_shell
 - a simple UNIX command interpreter
 .SH SYNOPSIS
-.B #include \(dqholberton.h\(dq
+.B #include \(dqshell.h\(dq
 .sp
 .B int hsh(void)
 .SH DESCRIPTION
@@ -79,6 +79,6 @@ The primary prompt string, which defaults to “$ ”
 .SH BUGS
 .ip Expansions only work once per stdin read
 .SH AUTHOR
-Tu Vo and Josef Goodyear
+Alemseged Fekede & Biniyam Endale
 .SH SEE ALSO
 .BR sh (1)
