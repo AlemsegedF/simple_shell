@@ -394,6 +394,6 @@ Biniyam Endale : [LinkedIn/] | [GitHub/bini-fufu]
 
 
 
-- I'm a Software Engineering Graduate from Addis Ababa University and a student at ALX/HOLBORTON school.
+- I'm  a Software Engineering Graduate from Addis Ababa University and a student at ALX/HOLBORTON school.
 
 
